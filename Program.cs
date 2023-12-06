@@ -10,7 +10,7 @@ namespace C__ASSESSMENTS
     {
         static void Main(string[] args)
         {
-            // Diclaring variables
+            // Declaring variables
             string name = "Phumelelo";
             int cellNumber = 08250250;
             string location = "Maboneng";
